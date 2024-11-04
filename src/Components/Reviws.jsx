@@ -72,7 +72,7 @@ function Reviws() {
               </svg>
             </div>
 
-            <p className="mt-0.5 text-lg font-medium text-gray-900">Shavia Laura., Marketing Director</p>
+            <p className="mt-0.5 text-lg font-medium text-gray-900">James Otipa., Marketing Director</p>
           </div>
         </div>
 
