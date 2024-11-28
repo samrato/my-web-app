@@ -6,7 +6,7 @@ import Header from "./Components/Header"
 import Reviws from "./Components/Reviws"
 import Stat from "./Components/Stat"
 function App() {
-  // const [count, setCount] = useState(0)
+  
 
   return (
     <div>
